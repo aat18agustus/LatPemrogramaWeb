@@ -8,12 +8,18 @@
 </head>
 
 <body bgcolor="#253A48">
-    <div style="color: antiquewhite;">
+    <div align="center" style="color: antiquewhite;">
         <h1>About Us</h1>
+        <p>
+            <a style="color: white;" href="LatihanWeb.html">Home</a> |
+            <a style="color: white;" href="Contact">Contact</a> |
+            <a style="color: white;" href="AboutUs">AboutUs</a>
+        </p>
         <h1 style=" color:#F23B5F; background-color: #F23B5F; ">
             1
         </h1>
         <p>Tentang saya dengan saya sendiri Rif'at Chusnul Ma'afi</p>
+        <p>dengan NIM 190441100157</p>
     </div>
 </body>
 

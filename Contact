@@ -11,6 +11,11 @@
     <div style="color: antiquewhite;" align="center">
 
         <h1>Contact</h1>
+        <p>
+            <a style="color: white;" href="LatihanWeb.html">Home</a> |
+            <a style="color: white;" href="Contact">Contact</a> |
+            <a style="color: white;" href="AboutUs">AboutUs</a>
+        </p>
         <h1 style=" color:#F23B5F; background-color: #F23B5F;">
             1
         </h1>
