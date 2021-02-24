@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+</head>
+
+<body bgcolor="#253A48">
+    <div style="color: antiquewhite;">
+        <h1>About Us</h1>
+        <h1 style=" color:#F23B5F; background-color: #F23B5F; ">
+            1
+        </h1>
+        <p>Tentang saya dengan saya sendiri Rif'at Chusnul Ma'afi</p>
+    </div>
+</body>
+
+</html>
