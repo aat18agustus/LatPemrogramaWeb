@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Contact</title>
 </head>
 
 <body bgcolor="#253A48">
@@ -12,15 +12,24 @@
 
         <h1>Contact</h1>
         <p>
-            <a style="color: white;" href="LatihanWeb.html">Home</a> |
-            <a style="color: white;" href="Contact">Contact</a> |
-            <a style="color: white;" href="AboutUs">AboutUs</a>
+            <a style="color: white;" onclick="alert('Loading!')" href="LatihanWeb.html">Home</a> |
+            <a style="color: white;" onclick="alert('Loading!')" href="Contact">Contact</a> |
+            <a style="color: white;" onclick="alert('Loading!')" href="AboutUs">AboutUs</a>
         </p>
         <h1 style=" color:#F23B5F; background-color: #F23B5F;">
             1
         </h1>
         <p>Nomer HP</p>
         <p style="font-size: 40px;">086387483748</p>
+        <!-- link email dan link website-->
+        <p>
+            Info lebih lanjut:
+            <a href="mailto:aat17agustus@gmail.com" title="kirim email ke Rif'at Chusnul Ma'afi">Hubungi Saya</a></a>
+        </p>
+        <p>
+            Info Link Github saya:
+            <a href="https://github.com/aat18agustus"> aat18agustus</a></a>
+        </p>
     </div>
 </body>
 

@@ -11,9 +11,9 @@
     <div align="center" style="color: antiquewhite;">
         <h1>About Us</h1>
         <p>
-            <a style="color: white;" href="LatihanWeb.html">Home</a> |
-            <a style="color: white;" href="Contact">Contact</a> |
-            <a style="color: white;" href="AboutUs">AboutUs</a>
+            <a style="color: white;" onclick="alert('Loading!')" href="LatihanWeb.html">Home</a> |
+            <a style="color: white;" onclick="alert('Loading!')" href="Contact">Contact</a> |
+            <a style="color: white;" onclick="alert('Loading!')" href="AboutUs">AboutUs</a>
         </p>
         <h1 style=" color:#F23B5F; background-color: #F23B5F; ">
             1
