@@ -9,9 +9,10 @@
 
 <body bgcolor="#253A48" style="color: white;">
 
-    <!---Navbar untuk pilihan pindah page  --->
+
     <div>
         <h1 style="color: #F23B5F;margin-top: 40px;" align="center">Artikel Latihan Pemrograman Web</h1>
+        <!---Navbar untuk pilihan pindah page  --->
         <nav style="margin-left: 18px; font-size: 18px;">
             <a style="color: white;" onclick="alert('Loading!')" href="LatihanWeb.html">Home</a> |
             <a style="color: white;" onclick="alert('Loading!')" href="gambar/Foto1.jpg">Download CV</a> |
@@ -22,7 +23,7 @@
         <hr>
         <!-- Menampilkan gambar -->
         <p>
-            <center> <img src="gambar/Foto1.jpg " width="250" height="300"></center>
+            <center> <img src="gambar/Foto1.jpg " width="200" height="200" style="border-radius: 50%;"></center>
         </p>
 
         <p>
@@ -39,29 +40,42 @@
                 <center> Overview </center>
             </p>
         </h1>
-        <p> Website ini dibuat untuk pengenalan pemrograman web dengan menggunakan bahasa HTML yang merupakan bahas
-            untuk
-            membuat sebuah website</p>
-        <p> Untuk kelanjutan website masih belom tau karena ini masih latihan website 1-8 dibuat dengan refrensi website
-            Petani Kode</p>
+        <!-- article menunjukkan bagian isi konten web -->
+        <article>
+            <p> Website ini dibuat untuk pengenalan pemrograman web dengan menggunakan bahasa HTML yang merupakan bahas
+                untuk
+                membuat sebuah website</p>
+            <p> Untuk kelanjutan website masih belom tau karena ini masih latihan website 1-8 dibuat dengan refrensi
+                website
+                Petani Kode</p>
+        </article>
 
         <div style="max-width: 600px; margin: 3em auto">
             <table border="1" style="width: 100%;">
-                <tr>
-                    <th>No</th>
-                    <th style=" color:#F23B5F;">Pengalaman</th>
-                    <th style=" color:#F23B5F;">hobby</th>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <th>Nguli</th>
-                    <th>Mangan</th>
-                </tr>
-                <tr>
-                    <th>2</th>
-                    <th>Maratho anime 3 season/1 hari</th>
-                    <th>Ngombe ojo lali</th>
-                </tr>
+                <!-- Thead menunjukkan bagian head table -->
+                <thead>
+                    <tr>
+                        <th style=" color:#F23B5F;">Pengalaman</th>
+                        <th style=" color:#F23B5F;">hobby</th>
+                    </tr>
+                </thead>
+                <!-- tbody menunjukkan bagian body table -->
+                <tbody>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>Nguli</li>
+                                <li>Mangan</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ul>
+                                <li>Nguli</li>
+                                <li>Mangan</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
             </table>
         </div>
 
